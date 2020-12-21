@@ -1,0 +1,10 @@
+com\darren\videoservice\entity\Video.class
+com\darren\videoservice\service\VideoService.class
+com\darren\videoservice\entity\Sentence.class
+com\darren\videoservice\index\WordSortVideoIndex.class
+com\darren\videoservice\interfaceadapter\ScreenView.class
+com\darren\videoservice\index\SentenceTimeIndex.class
+com\darren\videoservice\interfaceadapter\VideoSource.class
+com\darren\videoservice\controller\VideoController.class
+com\darren\videoservice\ui\VideoServiceCLI.class
+com\darren\videoservice\interfaceadapter\VideoPresenter.class
